@@ -1,0 +1,9 @@
+rubenuribe@elpoli.edu.co;Ruben;Uribe;5555
+ruben;Ruben;Uribe;5555
+pepito;Armando;Casas;0000
+leidy@elpoli.edu.co;Daniela;Manco;2022
+julian@elpoli.edu.co;Julian;Jaramillo;9090
+hola@elpoli.edu.co;Dario;Uribe;222
+juan@elpoli.edu.co;Juan;López;111
+stiven@elpoli.edu.co;Stiven;López;0000
+dario@elpoli.edu.co;Dario;Uribe;8888
